@@ -14,5 +14,5 @@ jobs:
       - uses: actions/pload-artifact@v2
         with:
           name: hello
-        path: .
+          path: .
         
